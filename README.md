@@ -11,55 +11,55 @@ Users can register as car owners to list their cars for rent, or as customers to
 
 👤 User & Owner Roles
 
-Register as a user to book cars.
+ - Register as a user to book cars.
 
-Register as an owner to list cars.
+ - Register as an owner to list cars.
 
 🚘 Car Management
 
-Owners can add, update, and delete their cars.
+ - Owners can add, update, and delete their cars.
 
-Each car includes details like model, price, availability, etc.
+ - Each car includes details like model, price, availability, etc.
 
 📅 Booking System
 
-Users can browse available cars.
+- Users can browse available cars.
 
-Book cars for specific days.
+- Book cars for specific days.
 
 🔐 Authentication & Authorization
 
-Secure login & registration system.
+- Secure login & registration system.
 
-Role-based access (user vs. owner).
+- Role-based access (user vs. owner).
 
 🎨 Frontend (React + Vite)
 
-Modern UI with responsive design.
+- Modern UI with responsive design.
 
-Easy navigation and booking flow.
+- Easy navigation and booking flow.
 
 ⚙️ Backend (Express + MongoDB)
 
-REST APIs for users, cars, and bookings.
+- REST APIs for users, cars, and bookings.
 
-Secure data storage in MongoDB Atlas.
+- Secure data storage in MongoDB Atlas.
 
 🚀 Tech Stack
 
-Frontend: React, Vite, Axios, React Router
+- Frontend: React, Vite, Axios, React Router
 
-Backend: Node.js, Express.js, JWT Authentication
+- Backend: Node.js, Express.js, JWT Authentication
 
-Database: MongoDB Atlas
+- Database: MongoDB Atlas
 
-Deployment: Vercel
+- Deployment: Vercel
 
 🌐 Deployment
 
-Frontend: https://car-rental-liart-nu.vercel.app
+- Frontend: https://car-rental-liart-nu.vercel.app
 
-Backend: https://car-rental-server-omega-ochre.vercel.app
+- Backend: https://car-rental-server-omega-ochre.vercel.app
 
 <img width="1420" height="773" alt="Screenshot 2025-10-02 195730" src="https://github.com/user-attachments/assets/6c7939fc-8acf-40a9-873c-ae4d1b6fd054" />
 <img width="1417" height="764" alt="Screenshot 2025-10-02 195741" src="https://github.com/user-attachments/assets/1d9005ad-5c6c-48ac-9e18-a981dfd7fbe0" />
